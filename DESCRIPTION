@@ -5,8 +5,14 @@ Authors@R: person("Francois", "Michonneau", role=c("aut", "cre"),
                                 email="francois.michonneau@gmail.com")
 Description: Help you locate functions inside your scripts.
 Depends: R (>= 3.4.0)
-License: BSD_3_clause + file LICENSE
+Imports:
+  tibble,
+  purrr,
+  dplyr,
+  crayon
+License: BSD_2_clause + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/fmichonneau/scanr
 BugReports: https://github.com/fmichonneau/scanr/issues
+RoxygenNote: 6.0.1
