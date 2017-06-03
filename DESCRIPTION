@@ -1,10 +1,12 @@
 Package: scanr
-Title: What the Package Does (one line, title case)
+Title: Scan your R files to look for your functions
 Version: 0.0.0.9000
 Authors@R: person("Francois", "Michonneau", role=c("aut", "cre"),
                                 email="francois.michonneau@gmail.com")
-Description: What the package does (one paragraph).
+Description: Help you locate functions inside your scripts.
 Depends: R (>= 3.4.0)
-License: MIT + file LICENSE
+License: BSD_3_clause + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/fmichonneau/scanr
+BugReports: https://github.com/fmichonneau/scanr/issues
