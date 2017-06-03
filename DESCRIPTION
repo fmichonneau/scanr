@@ -1,0 +1,10 @@
+Package: scanr
+Title: What the Package Does (one line, title case)
+Version: 0.0.0.9000
+Authors@R: person("Francois", "Michonneau", role=c("aut", "cre"),
+                                email="francois.michonneau@gmail.com")
+Description: What the package does (one paragraph).
+Depends: R (>= 3.4.0)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
